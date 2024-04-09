@@ -24,3 +24,11 @@ SHOUTOUTS:
 -Youtube -Tutorials Were a Big Help for Setting things Up
 
 -----------------------------------------------------------------------------------------
+
+INSTALLATION INSTRUCTIONS:
+
+1) Download Extract Content From Folder
+2) Locate the Addons Folder Within Main Gmod Directory
+3) Drag and Drop Folder Into Addons Folder
+4) All Set! Now Just Use the File Named "shrulespanel_.lua" to Edit Certain Aspects of the Addon
+

@@ -2,14 +2,11 @@ GREETINGS!!
 
 THIS IS MY THIRD ADDON EVER, SO BE NICE.
 IF YOU COME ACROSS ANY ISSUES FEEL FREE TO LET ME KNOW
-IF YOU SEE ANY REDUNDANT CODE OR WAYS OF MAKING THINGS MORE FLUID, CONTACT ME. I STILL DON'T KNOW HOW I FINISHED THIS
-CONTACT ME THROUGH STEAM: https://steamcommunity.com/profiles/76561198275723743/
-
 ---------------------------------------------------------------------------------
 
-COMMANDS FOR OPENING CODE OF CINDUCT MENU:
-
+COMMANDS FOR OPENING CODE OF CONDUCT MENU:
 !conduct
+(Open Automatically on Server Join)
 
 ------------------------------------------------------------------------------------
 
